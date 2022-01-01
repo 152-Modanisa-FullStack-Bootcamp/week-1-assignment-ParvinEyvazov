@@ -1,3 +1,7 @@
+# RESULT
+![This is an image](./assets/console.png)
+![This is an image](./assets/page.png)
+
 # vanilla-js-template
 Vanilla JS Project template for Modanisa Bootcamp
 
