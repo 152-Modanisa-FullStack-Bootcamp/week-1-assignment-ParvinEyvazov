@@ -1,4 +1,31 @@
 h1 {
-  color: hotpink;
+  color: white;
   font-family: cursive;
+}
+
+body {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  width: 100%;
+  font-size: 1rem;
+}
+
+.products {
+  display: flex;
+  width: 100%;
+}
+
+.product {
+  margin: 5px;
+  font-size: 0.5rem;
+}
+
+.product img {
+  width: 150px;
 }

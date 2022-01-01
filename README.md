@@ -41,3 +41,6 @@ For this assigment, you need to prepare a Linkedin post.
 
 ## Assignment-3 (JS Practice)
 This assigment is about JS. All the steps you need to complete written in app.js file.
+
+![This is an image](./assets/console.png)
+![This is an image](./assets/page.png)
