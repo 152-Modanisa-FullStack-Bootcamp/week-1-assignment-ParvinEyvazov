@@ -26,6 +26,8 @@ For the first assigment, you need to prepare a login screen which is centered on
 - For bonus points, you need to give pay extra attention to the colors, border radius fonts.
 ![This is an image](./assets/login-screen.png)
 
+## FINAL
+![This is an image](./assets/final.png)
 
 ## Assignment-2 (Linkedin Post)
 For this assigment, you need to prepare a Linkedin post.
